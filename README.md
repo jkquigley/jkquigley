@@ -8,4 +8,4 @@ Most of my programming experience is in C++, Python, C# and MATLAB/Simulink. Thi
 
 My intersets in mathematics lie mostly within numerical analysis. I spent much of my final year at Edinburgh working on a group project titled _Numerical Methods for Solving the Advection Equation_. The source code can be found [here](https://github.com/kquigley29/numerate). Together with this, I have taken courses in numerical methods for linear algebra, ordinary differential equations and partial differential equations. On the other hand, I have enjoyed pure mathematics courses in differential equations, linear analysis, differential geomerty, complex analysis, and number theory.
 
-If you would like to get in contact please email me at [keaneq@protonmail.com](mailto:keaneq@protonmail.com).
+If you would like to get in contact please [email](mailto:keaneq@protonmail.com) me.
